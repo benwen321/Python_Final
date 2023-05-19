@@ -3,8 +3,8 @@ I decided to analyze NASDAQ and NYSE companies' changes in performance between 2
 https://www.kaggle.com/datasets/alikashif1994/us-listed-companies-finanical-data
 Here is some of the relevant terminology: 
 Earnings before interest and taxes (EBIT): an overview how much profit a company makes before paying off interest and taxes. 
-Market Cap: The total value of a publicly traded company
-Dividends: a distribution of a company's earnings to it's shareholders
+Market Cap: The total value of a publicly traded company.
+Dividends: a distribution of a company's earnings to it's shareholders.
 
 In this project, I explore two questions: 
 1. Which industry's EBIT grew the most and shrank the least from 2019 to 2020?
